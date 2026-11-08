@@ -26,7 +26,7 @@ TaskBoard дозволяє створювати завдання, ставити
 ## Як запустити
 1. Склонуй репозиторій:
 ```bash
-git clone https://github.com/ТВІЙ_НІК/taskboard.git
+git clone https://github.com/S0ull_arch/taskboard.git
 ```
 2. Відкрий папку у VS Code.
 3. Запусти `index.html` через Live Server.
